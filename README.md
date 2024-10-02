@@ -24,11 +24,11 @@ To get started with the Task Management App, follow these steps:
    cd task-management-app
    ```
 
-   #Usage
-   ##Board Context
+   Usage
+   Board Context
    The application uses React's Context API to manage the state of the task board. The BoardContext provides access to the board's state and dispatch function throughout the app.
 
-##Board Provider
+Board Provider
 Wrap your application with the BoardProvider component to supply the board state to the rest of your app.
 
 ##Task Reducer
