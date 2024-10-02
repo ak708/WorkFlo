@@ -31,11 +31,11 @@ To get started with the Task Management App, follow these steps:
 Board Provider
 Wrap your application with the BoardProvider component to supply the board state to the rest of your app.
 
-##Task Reducer
+Task Reducer
 The boardReducer function is responsible for handling various actions that affect the board's state, such as adding, moving, or removing tasks.
 
-#Contributing
+Contributing
 Contributions to the Task Management App are welcome! If you wish to contribute, please fork the repository, create a feature branch, and submit a pull request. Ensure that you include tests and documentation for any new features or changes.
 
-#License
+License
 This project is licensed under the MIT License. For more details, see the LICENSE file in the repository.
